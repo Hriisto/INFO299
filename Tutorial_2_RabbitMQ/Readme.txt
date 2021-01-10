@@ -1,0 +1,1 @@
+Se siguieron todos los pasos del tutorial 2 y se hizo el ejercicio de wikipedia y youtube que se encuentra en la carpeta Ejercicio
