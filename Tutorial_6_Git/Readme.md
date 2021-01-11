@@ -3,7 +3,7 @@ La explicacion de este tutorial sera mas teorico ya que no comprendi correctamen
 Tenemos que comenzar explicando la diferencia que hay entre Git y Github :
 - **Git**: Este es un sistema de control de versiones el cual e libre y open source. Ya que es un sistema distribuido facilita el desarrollo remoto entre equipos de trabajos , ayudando en el desarrolo paralelo el cual esta preparado para los conflictos que puedan ocurrir entre las modificaciones que se hagan paralelamente.
 
-- **GitHub**: Este es un servicio web de alojamiento el cual permite la centralizacion del trabajo que se realiza con la ayuda de git, este incorporta otras funcionalidades como:
+- **GitHub**: Este es un servicio web de alojamiento el cual permite la centralizacion del trabajo que se realiza con la ayuda de git, este incorpora otras funcionalidades como:
             
             - Herramientas analiticas
             - Gestion de permisos y licencias
